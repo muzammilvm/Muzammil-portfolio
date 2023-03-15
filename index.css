@@ -1,0 +1,35 @@
+.projects{
+    color: black;
+    text-decoration: none;
+}
+
+.image-details{
+    height: 630px;
+    background-color: #f5df4e;
+}
+
+.rightInfo{
+    flex-direction: column;
+    justify-content: center;
+}
+
+.firstPage{
+
+    background-color: #f5df4e;
+}
+
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.projects:hover{
+    text-decoration: none;
+}
+
+.resume:hover{
+    transition: .5s;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-color: white;
+}
